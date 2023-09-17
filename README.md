@@ -20,7 +20,7 @@
 
 
 
-I am a dedicated IT enthusiast with a strong passion for technology. My journey in IT has equipped me with skills in software and web development, including languages like Python, Java, and JavaScript. I excel in creating user-friendly websites, often using WordPress, and possess hands-on hardware expertise, from diagnosing issues to optimizing performance. I stay current with IT trends and am committed to continuous learning and innovation. My diverse skill set positions me well to tackle a wide range of IT challenges and contribute to impactful projects in the ever-evolving world of technology.
+I am a dedicated IT enthusiast with a strong passion for technology. My journey in IT has equipped me with skills in software and web development, including languages like Python and Java. I stay current with IT trends and am committed to continuous learning and innovation. My diverse skill set positions me well to tackle a wide range of IT challenges and contribute to impactful projects in the ever-evolving world of technology.
 
 
 <!---
