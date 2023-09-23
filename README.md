@@ -2,6 +2,9 @@
 
 
 
+![handosme](https://github.com/raizel1471/raizel1471/assets/142653894/acfdfec1-a155-454b-ada2-a6a43d1bb89a)
+
+
 ![Mr  Me (1)](https://github.com/raizel1471/raizel1471/assets/142653894/4797f8ef-bb19-4182-b0be-db74e07ef133)
 
 
@@ -22,6 +25,10 @@
 
 I am a dedicated IT enthusiast with a strong passion for technology. My journey in IT has equipped me with skills in software and web development, including languages like Python and Java. I stay current with IT trends and am committed to continuous learning and innovation. My diverse skill set positions me well to tackle a wide range of IT challenges and contribute to impactful projects in the ever-evolving world of technology.
 
+
+
+
+![raaaar](https://github.com/raizel1471/raizel1471/assets/142653894/a26d7cc4-92dc-4817-ae6a-275ba2ee32aa)
 
 <!---
 raizel1471/raizel1471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
